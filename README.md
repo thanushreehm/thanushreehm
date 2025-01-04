@@ -20,4 +20,4 @@ git push origin master
 6)gir checkout main 
 git merge branch1
 git merge main 
-git merge main"files created and added "
+git merge branch1 -m "files created and added "
